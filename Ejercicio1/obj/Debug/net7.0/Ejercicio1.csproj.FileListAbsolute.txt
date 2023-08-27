@@ -1,0 +1,15 @@
+/home/julian/Escritorio/TIA #1/Ejercicio1/bin/Debug/net7.0/Ejercicio1
+/home/julian/Escritorio/TIA #1/Ejercicio1/bin/Debug/net7.0/Ejercicio1.deps.json
+/home/julian/Escritorio/TIA #1/Ejercicio1/bin/Debug/net7.0/Ejercicio1.runtimeconfig.json
+/home/julian/Escritorio/TIA #1/Ejercicio1/bin/Debug/net7.0/Ejercicio1.dll
+/home/julian/Escritorio/TIA #1/Ejercicio1/bin/Debug/net7.0/Ejercicio1.pdb
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/Ejercicio1.csproj.AssemblyReference.cache
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/Ejercicio1.AssemblyInfoInputs.cache
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/Ejercicio1.AssemblyInfo.cs
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/Ejercicio1.dll
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/refint/Ejercicio1.dll
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/Ejercicio1.pdb
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/Ejercicio1.genruntimeconfig.cache
+/home/julian/Escritorio/TIA #1/Ejercicio1/obj/Debug/net7.0/ref/Ejercicio1.dll
