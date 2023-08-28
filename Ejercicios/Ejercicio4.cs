@@ -9,7 +9,7 @@ namespace Ejercicio1.Program
         static void Main(string[] args)
         {   
             Console.WriteLine("Numeros del 1 al 10 de forma ascendente");
-            for (int i = 10; i >= 1; --i)
+            for (int i = 1; i <= 10; ++i)
             {
                 Console.WriteLine(i);
             }
