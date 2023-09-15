@@ -9,7 +9,14 @@ namespace Prueba
 
         static void Main(string[] args)
         {
+            int numero = 0;
+            Console.WriteLine("Ingrese el número para verificar si es primo: ");
+            numero = Int32.Parse(Console.ReadLine());
 
+            if (numero / numero)
+            {
+                
+            }
         }
     }
 }
