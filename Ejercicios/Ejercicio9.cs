@@ -1,9 +1,8 @@
-﻿
 using System;
 
-namespace Prueba
+namespace Ejercicios
 {
-    class Program
+    public class Ejercicio8
     {
         static void Main(string[] args)
         {
