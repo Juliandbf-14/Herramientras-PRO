@@ -1,9 +1,8 @@
-﻿// 4. Imprima los números del 1 al 10 en orden ascendente
-// 
-using System;
+﻿using System;
 
-namespace Ejercicio1.Program
+namespace Ejercicio4
 {
+    // 4. Imprima los números del 1 al 10 en orden ascendente
     class Program
     {
         static void Main(string[] args)

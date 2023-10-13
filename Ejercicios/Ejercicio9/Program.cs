@@ -1,10 +1,10 @@
-﻿
-using System;
+﻿using System;
 
-namespace Prueba
+namespace Ejercicio9
 {
-    class Program
+    public class Program
     {
+        // 9. Cree un programa que pida al usuario un número y verifica si es primo (solo divisible por 1 y por sí mismo).
         static void Main(string[] args)
         {
             int numero = 0;
@@ -16,9 +16,7 @@ namespace Prueba
                 Console.WriteLine($"El número {numero} no es primo.");
             } else {
                 Console.WriteLine($"El número {numero} es primo.");
-            }
-            
-                        
+            }            
         }
 
         static bool EsPrimo(int numero)
@@ -27,11 +25,11 @@ namespace Prueba
             {
                 if((numero % i) == 0)
                 {
-                    // No es primo :(
+                    // Si devuelve falso, significa que no es primo
                     return false;
                 }
             }
-            // Es primo :)
+            // Si devuelve verdadero, significa que es primo
             return true;
         }
     }

@@ -1,11 +1,11 @@
-﻿// 3. Crear un programa que le pida al usuario un número e 
-// imprime su tabla de multiplicar del 1 al 10.
-using System;
+﻿using System;
 
-namespace Ejercicio1.Program
+namespace Ejercicio3
 {
     class Program
     {
+        // 3. Crear un programa que le pida al usuario un número e 
+        // imprime su tabla de multiplicar del 1 al 10.
         static void Main(string[] args)
         {
             int numero = 0;

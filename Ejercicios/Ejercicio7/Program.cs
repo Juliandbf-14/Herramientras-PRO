@@ -1,12 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Ejercicios
+﻿namespace Ejercicio7
 {
-    public class Ejercicio7
+    public class Program
     {
+        //7. Cree un programa que pida al usuario un número y calcula su factorial (el producto de todos los enteros positivos menores o iguales al número).
        static void Main(string[] args)
        {
             int numero = 0;

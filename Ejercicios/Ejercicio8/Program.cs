@@ -1,12 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Ejercicios
+﻿namespace Ejercicio8
 {
-    public class Ejercicio8
+    public class Program
     {
+        // 8. Cree un programa que pida al usuario una temperatura en grados Celsius y muestra su equivalente en grados Fahrenheit usando la fórmula: F = C * 9/5 + 32.
         static void Main(string[] args)
         {
             float celsius = 0;
